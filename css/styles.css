@@ -87,7 +87,7 @@ section h4 {
 }
 
 #backbtn {
-  color: black;
+  color: rgb(0, 0, 252);
   cursor: pointer;
   text-decoration: none;
   font-weight: bold;
